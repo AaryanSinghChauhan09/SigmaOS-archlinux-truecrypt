@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-truecrypt"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-truecrypt component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
